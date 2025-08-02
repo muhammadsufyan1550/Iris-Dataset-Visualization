@@ -59,7 +59,7 @@ iris-dataset-visualization/
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/iris-dataset-visualization.git
+   git clone https://github.com/muhammadsufyan1550/Iris-Dataset-Visualization.git
    ```
 2. Install required packages:
    ```bash
